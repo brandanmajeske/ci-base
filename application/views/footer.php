@@ -7,7 +7,7 @@
   </div> <!-- end wrap -->
     <footer>
       <div class="container">
-        <p class="muted credit">Level-Up Challenge &copy; <?php echo date('Y');?></p>
+        <p class="muted credit">Project Name &copy; <?php echo date('Y');?></p>
       </div>
     </footer>
     <script src="http://code.jquery.com/jquery.js"></script>
